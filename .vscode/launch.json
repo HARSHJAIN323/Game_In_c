@@ -8,8 +8,13 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
+<<<<<<< HEAD
       "cwd": "c:/Users/VICTUS/c lan",
       "program": "c:/Users/VICTUS/c lan/build/Debug/outDebug",
+=======
+      "cwd": "c:/Users/VICTUS/project 2 in C",
+      "program": "c:/Users/VICTUS/project 2 in C/build/Debug/outDebug",
+>>>>>>> 3ccd29dcb5103ac2f72cd0c01854b4e0cd026992
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
